@@ -27,7 +27,7 @@ import string
 import math
 import numpy as np
 
-from .. import QwopEnv
+from qwop_gym.envs.v1.qwop_env import QwopEnv
 
 # Keys of user-defined metrics in the `info` dict
 INFO_KEYS = ("time", "distance", "avgspeed", "is_success")
