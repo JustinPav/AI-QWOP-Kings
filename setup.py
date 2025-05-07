@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="qwop-gym",
-    version="0.0.1",
+    version="1.0.1",
     description="A custom Gymnasium-compatible environment for the QWOP game.",
     author="Your Name",
     packages=[
